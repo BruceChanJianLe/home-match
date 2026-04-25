@@ -1,3 +1,16 @@
+## About The Project
+
+> All functionality is consolidated within a single notebook `HomeMatch.ipynb`.
+> It is a real estate recommendation system that matches buyers with
+> properties using semantic search and AI personalization. It stores 18 LLM-generated
+> listings in a ChromaDB vector database, embeds buyer preferences (collected as
+> structured Q&A) using OpenAI embeddings, and retrieves the top matching properties
+> via cosine similarity. Each matched listing's description is then rewritten by
+> GPT-4o-mini to highlight aspects most relevant to the buyer — without altering any
+> factual details like price, bedrooms, or size.
+
+> The generated listing are stored in `./resources/chatgpt_listings.json`.
+
 ## Dependencies
 
 ```bash
