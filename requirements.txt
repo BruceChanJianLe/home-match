@@ -1,6 +1,11 @@
-langchain
-langchain-openai
-langchain-community
-chromadb
-openai
-python-dotenv
+langchain==1.2.15
+langchain-openai==1.2.1
+langchain-community==0.4.1
+chromadb==1.5.8
+openai==2.32.0
+python-dotenv==1.2.2
+imageio
+networkx==3.4.2
+pillow==12.2.0
+scipy==1.15.3
+matplotlib==3.10.9
