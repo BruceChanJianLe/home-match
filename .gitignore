@@ -1,3 +1,4 @@
 .env
 Session.vim
 .ipynb_checkpoints
+./resources/chroma_db
