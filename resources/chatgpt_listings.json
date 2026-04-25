@@ -1,0 +1,164 @@
+[
+  {
+    "neighborhood": "Downtown",
+    "price": 450000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "house_size_sqft": 650,
+    "description": "Modern urban condo with stunning city views. Features high ceilings, stainless steel appliances, and a private balcony.",
+    "neighborhood_description": "Located in the heart of the city, Downtown offers a vibrant lifestyle with cafes, shops, and cultural attractions just steps away."
+  },
+  {
+    "neighborhood": "Greenwood",
+    "price": 320000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 1800,
+    "description": "Charming suburban family home with a spacious backyard. Recently updated with a new roof and modern kitchen.",
+    "neighborhood_description": "Greenwood is a family-friendly neighborhood with good schools, parks, and a strong sense of community."
+  },
+  {
+    "neighborhood": "Hillside",
+    "price": 750000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size_sqft": 2500,
+    "description": "Stunning hillside property with panoramic views. Open concept living with large windows and an expansive deck for entertaining.",
+    "neighborhood_description": "Hillside is known for its scenic views and outdoor activities, making it perfect for nature lovers and families."
+  },
+  {
+    "neighborhood": "Old Town",
+    "price": 900000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size_sqft": 3400,
+    "description": "Elegant Victorian-style home featuring original architectural details and modern amenities. Spacious rooms and a beautiful garden.",
+    "neighborhood_description": "Old Town offers a rich history with charming boutiques, restaurants, and a strong community atmosphere."
+  },
+  {
+    "neighborhood": "Lakeside",
+    "price": 320000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_size_sqft": 1200,
+    "description": "Cozy lakeside cottage with a rustic charm. Perfect for weekend getaways or year-round living, with access to private lake activities.",
+    "neighborhood_description": "Lakeside is a peaceful retreat known for its natural beauty, water sports, and friendly neighbors."
+  },
+  {
+    "neighborhood": "West End",
+    "price": 2000000,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_size_sqft": 5000,
+    "description": "Luxury estate offering exceptional finishes and space for family living and entertaining. Includes a home gym and an outdoor pool.",
+    "neighborhood_description": "West End is a prestigious neighborhood known for its affluent properties, top-rated schools, and proximity to the city."
+  },
+  {
+    "neighborhood": "Sunnyvale",
+    "price": 475000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 1600,
+    "description": "Bright and airy single-family home with a spacious layout. Features a large kitchen and a private yard perfect for outdoor gatherings.",
+    "neighborhood_description": "Sunnyvale is a vibrant community with excellent schools and recreational facilities, making it perfect for families."
+  },
+  {
+    "neighborhood": "Riverdale",
+    "price": 285000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_size_sqft": 900,
+    "description": "Charming townhouse in a quiet area. Updated kitchen and easy access to public transport and local amenities.",
+    "neighborhood_description": "Riverdale thrives with community spirit and offers plenty of parks, shopping, and dining options."
+  },
+  {
+    "neighborhood": "Maplewood",
+    "price": 600000,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "house_size_sqft": 2200,
+    "description": "Beautiful colonial home featuring a large backyard and modern updates. Perfect for a growing family looking for space and comfort.",
+    "neighborhood_description": "Maplewood is a family-oriented neighborhood with friendly neighbors, great schools, and numerous parks."
+  },
+  {
+    "neighborhood": "Emerald Hills",
+    "price": 850000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 2000,
+    "description": "Elegant ranch-style home with a contemporary flair. Spacious open layout and a chef\u2019s kitchen ideal for entertaining.",
+    "neighborhood_description": "Emerald Hills is known for its upscale homes and proximity to nature trails and hiking spots, perfect for outdoor enthusiasts."
+  },
+  {
+    "neighborhood": "North Cove",
+    "price": 1750000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size_sqft": 4000,
+    "description": "Stunning waterfront property featuring high-end finishes and an expansive deck. Perfect for luxury living and entertaining.",
+    "neighborhood_description": "North Cove is an upscale area known for its waterfront properties, boating activities, and scenic views."
+  },
+  {
+    "neighborhood": "Cedar Grove",
+    "price": 350000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 1500,
+    "description": "Cozy and well-maintained bungalow with a spacious garden. Perfect for first-time homebuyers or small families.",
+    "neighborhood_description": "Cedar Grove is a quiet neighborhood with a friendly vibe, offering parks and local shops for residents."
+  },
+  {
+    "neighborhood": "Downtown Loft District",
+    "price": 575000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size_sqft": 1200,
+    "description": "Stylish urban loft featuring exposed brick and beams. Close to nightlife and dining, making it ideal for city dwellers.",
+    "neighborhood_description": "The Loft District is vibrant and artistic, known for its galleries, cafes, and proximity to entertainment venues."
+  },
+  {
+    "neighborhood": "Meadowlands",
+    "price": 490000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 1900,
+    "description": "Charming two-story home with a large backyard and deck. Modern layout with bright, open spaces ideal for family living.",
+    "neighborhood_description": "Meadowlands is a suburban community with excellent schools and family-oriented amenities, including parks and shopping."
+  },
+  {
+    "neighborhood": "Historic District",
+    "price": 785000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size_sqft": 2600,
+    "description": "Gorgeous historic home with modern renovations and a large front porch. Perfect blend of charm and comfort in a sought-after area.",
+    "neighborhood_description": "The Historic District features beautiful architecture, tree-lined streets, and a rich cultural atmosphere."
+  },
+  {
+    "neighborhood": "Southfield",
+    "price": 280000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size_sqft": 1400,
+    "description": "Updated condo in a peaceful community with amenities like a pool and clubhouse. Perfect for professionals or small families.",
+    "neighborhood_description": "Southfield provides a balance of urban living with suburban comforts, easily accessible to major highways and shopping."
+  },
+  {
+    "neighborhood": "Woodland Heights",
+    "price": 620000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_size_sqft": 2100,
+    "description": "Beautifully maintained split-level home with a renovated kitchen and ample outdoor space for activities. Ideal for entertaining guests.",
+    "neighborhood_description": "Woodland Heights is known for its friendly community, nearby parks, and easy access to hiking trails."
+  },
+  {
+    "neighborhood": "Canyon View",
+    "price": 1195000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size_sqft": 3600,
+    "description": "Luxurious mountain home with breathtaking views and high-end finishes throughout. Features a spacious floor plan and outdoor living area.",
+    "neighborhood_description": "Canyon View is a serene and picturesque area known for its outdoor adventures and proximity to nature."
+  }
+]

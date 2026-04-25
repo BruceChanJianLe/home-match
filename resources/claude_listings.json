@@ -1,0 +1,200 @@
+[
+  {
+    "neighborhood": "Downtown Manhattan, New York",
+    "price": 1850000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size_sqft": 1100,
+    "description": "Sleek high-rise condo on the 34th floor with panoramic views of the Hudson River and city skyline. Features floor-to-ceiling windows, an open-plan kitchen with quartz countertops, and in-unit laundry. Building amenities include a rooftop terrace, concierge, and fitness center.",
+    "neighborhood_description": "The beating heart of New York City, Downtown Manhattan offers unparalleled access to world-class dining, finance, and culture. Streets buzz 24/7 with energy, and the subway puts the entire boroughs within minutes."
+  },
+  {
+    "neighborhood": "Buckhead, Atlanta",
+    "price": 975000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size_sqft": 4200,
+    "description": "Grand traditional brick Colonial on a landscaped half-acre lot with a three-car garage and private pool. The chef's kitchen opens to a vaulted great room with a stone fireplace, and the primary suite features a spa-like bath and custom walk-in closet. Freshly renovated with hardwood floors throughout.",
+    "neighborhood_description": "Buckhead is Atlanta's most prestigious enclave, known for upscale shopping along Peachtree Road, fine dining, and top-rated private schools. Tree-lined streets and manicured estates give the area a refined, park-like atmosphere."
+  },
+  {
+    "neighborhood": "East Nashville, Tennessee",
+    "price": 485000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 1650,
+    "description": "Charming craftsman bungalow with a deep front porch, original hardwood floors, and updated kitchen with subway tile backsplash. The backyard is fully fenced with a deck perfect for entertaining, and the detached garage offers bonus studio potential. Roof and HVAC replaced in 2022.",
+    "neighborhood_description": "East Nashville is a vibrant, eclectic neighborhood beloved by artists, musicians, and young professionals. Five Points and Gallatin Avenue are lined with indie coffee shops, vintage boutiques, and acclaimed farm-to-table restaurants."
+  },
+  {
+    "neighborhood": "Malibu, California",
+    "price": 1975000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_size_sqft": 2100,
+    "description": "Stunning contemporary beach house steps from the sand, with walls of glass framing unobstructed Pacific Ocean views. The open-plan living area flows to a wraparound deck, while the primary suite features a private balcony and soaking tub. A rare opportunity for single-level beachfront living.",
+    "neighborhood_description": "Malibu stretches 21 miles along the Pacific Coast Highway and is synonymous with laid-back luxury. Surfers, celebrities, and nature lovers all share this paradise of pristine beaches, sea caves, and the Santa Monica Mountains."
+  },
+  {
+    "neighborhood": "Wicker Park, Chicago",
+    "price": 620000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 1900,
+    "description": "Beautifully updated three-flat conversion now used as a single-family home, retaining original Victorian millwork and exposed brick. The kitchen features Bosch appliances and a large island, and the private rooftop deck offers skyline views. Full basement with finished rec room and ample storage.",
+    "neighborhood_description": "Wicker Park blends Chicago's rich architectural heritage with a creative, bohemian spirit. Milwaukee Avenue is packed with indie record shops, galleries, and some of the city's most inventive restaurants and cocktail bars."
+  },
+  {
+    "neighborhood": "Rural Galena, Illinois",
+    "price": 229000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_size_sqft": 980,
+    "description": "Cozy stone cottage nestled on 3 wooded acres with a babbling creek and wraparound porch. Interior features exposed beam ceilings, a wood-burning fireplace, and a remodeled kitchenette with pine cabinetry. Ideal as a weekend retreat or full-time escape from city life.",
+    "neighborhood_description": "Galena is a historic Mississippi River town in the rolling hills of northwest Illinois, famous for its preserved 19th-century architecture and antique shops. The surrounding countryside offers horse trails, vineyards, and unmatched autumn foliage."
+  },
+  {
+    "neighborhood": "Scottsdale, Arizona",
+    "price": 1350000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "house_size_sqft": 3800,
+    "description": "Sleek modern desert estate on a premium golf-course lot with mountain views and a resort-style pool and spa. The open-concept interior showcases polished concrete floors, a gourmet kitchen with double islands, and a glass-enclosed wine room. Outdoor living pavilion with a built-in BBQ and misting system.",
+    "neighborhood_description": "North Scottsdale is synonymous with upscale desert living, featuring world-renowned golf courses, luxury spas, and the vibrant Old Town arts and dining scene. The Sonoran Desert backdrop provides dramatic sunsets and easy access to hiking trails."
+  },
+  {
+    "neighborhood": "Capitol Hill, Seattle",
+    "price": 795000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size_sqft": 1250,
+    "description": "Sophisticated top-floor condo in a boutique six-unit building with private rooftop access and territorial views. The interior features warm white oak floors, a kitchen with waterfall-edge countertops, and a gas fireplace. One secure parking space and a storage unit included.",
+    "neighborhood_description": "Capitol Hill is Seattle's most dynamic urban neighborhood, a hub of LGBTQ+ culture, indie music venues, and cult-favorite coffee roasters. Broadway and Pike/Pine corridors offer walkable dining and nightlife just minutes from downtown."
+  },
+  {
+    "neighborhood": "Savannah Historic District, Georgia",
+    "price": 555000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size_sqft": 2700,
+    "description": "Meticulously restored antebellum row house on a cobblestone square with original heart-pine floors, 12-foot ceilings, and decorative plasterwork. The updated kitchen opens to a walled garden courtyard, and the carriage house offers a rentable guest apartment. All windows replaced with historically accurate reproductions.",
+    "neighborhood_description": "Savannah's Historic District is one of the largest National Historic Landmark Districts in the United States, defined by 22 moss-draped public squares and centuries of Southern character. Riverfront galleries, ghost tours, and James Beard Award-winning restaurants attract visitors year-round."
+  },
+  {
+    "neighborhood": "Stapleton, Denver",
+    "price": 648000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size_sqft": 2450,
+    "description": "Modern new-construction home in a master-planned community with a south-facing solar array and energy-efficient smart-home systems. The main floor features an open living and dining area with 9-foot ceilings, a mudroom, and a covered porch. Upstairs primary suite with mountain views and dual walk-in closets.",
+    "neighborhood_description": "Stapleton, now called Central Park, is a thoughtfully designed Denver community built on the former airport site, featuring 60+ miles of trails, 50 acres of parks, and a lively town center. It's a top choice for young families seeking sustainability and community."
+  },
+  {
+    "neighborhood": "French Quarter, New Orleans",
+    "price": 415000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size_sqft": 1100,
+    "description": "Authentic Creole cottage with a private courtyard, wrought-iron balconette, and renovated interior balancing historic character with modern comfort. Original wide-plank floors and plaster walls are complemented by an updated kitchen and spa bath. Legal short-term rental permit included.",
+    "neighborhood_description": "The French Quarter is New Orleans' iconic soul — an intoxicating mix of jazz, Creole cuisine, and 18th-century Spanish-Creole architecture. Bourbon Street roars at night while Royal Street's antique galleries and Frenchmen Street's live music offer a quieter magic."
+  },
+  {
+    "neighborhood": "Suburban Naperville, Illinois",
+    "price": 520000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "house_size_sqft": 3100,
+    "description": "Classic two-story colonial in a quiet cul-de-sac with great schools, a finished basement, and a large backyard with a cedar playset. The updated kitchen features granite countertops and a butler's pantry, and the primary suite includes a sitting room. New roof (2023) and two-car attached garage.",
+    "neighborhood_description": "Naperville consistently ranks among the safest and most livable cities in the United States, with top-rated District 203 schools, a charming Riverwalk, and a bustling downtown of shops and restaurants. Metra trains provide easy commuter access to Chicago."
+  },
+  {
+    "neighborhood": "South Beach, Miami",
+    "price": 1150000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size_sqft": 1400,
+    "description": "Glamorous Art Deco-inspired condo in a full-service luxury building two blocks from the ocean, with a private terrace and impact glass throughout. The interior features Italian marble floors, a gourmet kitchen with Sub-Zero appliances, and smart-home automation. Full building amenities include a pool, spa, cabanas, and valet.",
+    "neighborhood_description": "South Beach is Miami's world-famous playground of neon-lit nightlife, pastel Art Deco architecture, and white-sand beaches. Ocean Drive and Collins Avenue pulse with energy, attracting an international crowd of fashion, art, and culture enthusiasts."
+  },
+  {
+    "neighborhood": "Rural Asheville, North Carolina",
+    "price": 375000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 1450,
+    "description": "Warm mountain farmhouse on 5 pastoral acres with a creek, raised garden beds, a chicken coop, and a detached barn. The interior features shiplap walls, a wood stove, and a screened porch with long-range Blue Ridge views. 20 minutes from downtown Asheville with broadband internet.",
+    "neighborhood_description": "The Asheville countryside balances rural serenity with proximity to one of the Southeast's most celebrated arts and dining destinations. Rolling pastures and ridgeline forests make it a haven for homesteaders, hikers, and anyone seeking mountain tranquility."
+  },
+  {
+    "neighborhood": "Logan Circle, Washington D.C.",
+    "price": 1225000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size_sqft": 2600,
+    "description": "Stately Victorian rowhouse on a tree-lined block, fully renovated with designer finishes while preserving original medallions, pocket doors, and bay windows. The chef's kitchen opens to a private rear patio, and the top-floor primary suite is a true retreat. Off-street parking included — a rare DC premium.",
+    "neighborhood_description": "Logan Circle is a historic and highly walkable Washington D.C. neighborhood with a strong sense of community, beautiful Victorian streetscapes, and immediate access to 14th Street's acclaimed restaurant and bar corridor. Close proximity to multiple Metro lines makes commuting effortless."
+  },
+  {
+    "neighborhood": "Midtown Houston, Texas",
+    "price": 342000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_size_sqft": 2050,
+    "description": "Contemporary urban townhome with a private rooftop terrace and attached two-car garage just steps from the light rail. The open-plan main level features 10-foot ceilings, hardwood floors, and a sleek kitchen with a gas range. Low-maintenance living with no HOA yard maintenance required.",
+    "neighborhood_description": "Midtown Houston is a walkable, transit-friendly urban district known for its thriving bar scene on Main Street and easy access to the Texas Medical Center, Museum District, and downtown. The neighborhood attracts young professionals who want urban energy without Manhattan prices."
+  },
+  {
+    "neighborhood": "Sunset District, San Francisco",
+    "price": 1480000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 1700,
+    "description": "Charming Edwardian home with an attached garage, updated interior, and a sunny rear garden just blocks from Golden Gate Park. Features include new double-pane windows, a remodeled bath with radiant heat floors, and a legal in-law unit in the lower level. Excellent bones with original built-ins and picture-rail molding.",
+    "neighborhood_description": "The Outer Sunset is a relaxed, fog-kissed neighborhood beloved for its surf culture, authentic Asian cuisine on Irving Street, and direct beach access at Ocean Beach. Families and creatives alike are drawn to its tight-knit community feel and proximity to the park."
+  },
+  {
+    "neighborhood": "Rural Lake Ozark, Missouri",
+    "price": 415000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size_sqft": 2200,
+    "description": "Waterfront lake house with a private dock, two-slip boat dock, and wrap-around deck with sweeping cove views. The open great room features vaulted ceilings and a floor-to-ceiling stone fireplace, and the lower walkout level has a bunk room and game room. Turnkey with furnishings negotiable.",
+    "neighborhood_description": "Lake of the Ozarks is Missouri's premier inland resort destination, spanning over 1,150 miles of shoreline across the Ozark highlands. The lake lifestyle includes boating, fishing, and a vibrant marina strip of restaurants and entertainment — all just two hours from Kansas City and St. Louis."
+  },
+  {
+    "neighborhood": "Pearl District, Portland",
+    "price": 695000,
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "house_size_sqft": 1350,
+    "description": "Sophisticated loft in a converted 1920s warehouse with soaring 16-foot ceilings, polished concrete floors, and an exposed brick feature wall. The kitchen features professional-grade appliances and a massive island that seats six. Secure underground parking and a dedicated storage cage included.",
+    "neighborhood_description": "The Pearl District transformed from an industrial warehouse zone into Portland's most upscale urban neighborhood, now home to world-class contemporary art galleries, Powell's City of Books, and acclaimed farm-to-table dining. Streetcar access connects it seamlessly to the wider city."
+  },
+  {
+    "neighborhood": "Suburban Alpharetta, Georgia",
+    "price": 580000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size_sqft": 3450,
+    "description": "Spacious brick-front home in a gated swim-tennis community with a finished basement, three-car garage, and a covered back porch overlooking a wooded nature buffer. The two-story foyer opens to formal living and dining rooms, while the open family room and kitchen form a sprawling everyday living hub. Primary on main with double vanities and a jetted tub.",
+    "neighborhood_description": "Alpharetta is one of metro Atlanta's most desirable suburbs, anchored by a charming walkable downtown, the Avalon mixed-use development, and a booming tech corridor along GA-400. Top-rated Fulton County schools and low crime make it a magnet for families relocating from across the country."
+  },
+  {
+    "neighborhood": "Beacon Hill, Boston",
+    "price": 1750000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 1900,
+    "description": "Classic Federal-style brick townhouse on a gas-lit cobblestone street with original wide-plank floors, marble mantels, and period moldings. The updated kitchen integrates seamlessly into the historic shell, and the private rear garden is a rare urban sanctuary. Just steps from the Massachusetts State House and Boston Common.",
+    "neighborhood_description": "Beacon Hill is one of America's most iconic and best-preserved 19th-century urban neighborhoods, a labyrinth of narrow brick sidewalks, window boxes, and Federal and Greek Revival architecture. It combines aristocratic history with a lively village atmosphere of boutique shops and bistros on Charles Street."
+  },
+  {
+    "neighborhood": "Rural Finger Lakes, New York",
+    "price": 289000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size_sqft": 1600,
+    "description": "Lakeside Craftsman cottage with private lake frontage, a dock, and a screened sleeping porch perfect for summer evenings on the water. The interior has been updated with new kitchen appliances and a tiled bath while retaining original wainscoting and built-in bookshelves. Detached two-car garage with loft storage.",
+    "neighborhood_description": "New York's Finger Lakes region is a celebrated destination for wine lovers, with over 100 wineries and cideries dotting the lakeshores. Gorges, waterfalls, and state parks make it a four-season outdoor paradise, while Ithaca and Geneva anchor the area with culture and dining."
+  }
+]
